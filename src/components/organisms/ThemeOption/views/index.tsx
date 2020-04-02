@@ -32,10 +32,10 @@ const ThemeOption: React.FC = () => {
             <li className="color8"><span data-value="css/colors/color8-00cf95c.css"><i className="fa fa-check"></i></span></li>
           </ul>
           <ul>
-            <li className="color9"><span data-value="/css/colors/color9-827055.css"><i className="fa fa-check"></i></span></li>
-            <li className="color10"><span data-value="/css/colors/color10-8200ff.css"><i className="fa fa-check"></i></span></li>
-            <li className="color11"><span data-value="/css/colors/color11-e4c144.css"><i className="fa fa-check"></i></span></li>
-            <li className="color12"><span data-value="/css/colors/color12-5457a6.css"><i className="fa fa-check"></i></span></li>
+            <li className="color9"><span data-value="css/colors/color9-827055.css"><i className="fa fa-check"></i></span></li>
+            <li className="color10"><span data-value="css/colors/color10-8200ff.css"><i className="fa fa-check"></i></span></li>
+            <li className="color11"><span data-value="css/colors/color11-e4c144.css"><i className="fa fa-check"></i></span></li>
+            <li className="color12"><span data-value="css/colors/color12-5457a6.css"><i className="fa fa-check"></i></span></li>
           </ul>
         </div>
       </div>
