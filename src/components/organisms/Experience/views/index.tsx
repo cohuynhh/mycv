@@ -13,10 +13,12 @@ const Experience: React.FC = () => {
           </span>
           <div className="all-experience">
             <div className="experience-content">
-              <span className="period-experience">2018 – present</span>
+              <span className="period-experience">Aug 2018 – present</span>
               <h3 className="specialty-name">SENIOR SOFTWARE ENGINEER/TEAM LEADER </h3>
               <h3 className="company-name">NashTech Limited – Ho Chi Minh City, Vietnam</h3>
               <p className="prg-experience">
+              Part of Harvey Nash Group, NashTech is a global technology, consulting and outsourcing company. Services include digital strategy consulting, delivering software solutions and streamlining business processes.<br/>
+              Specialties: IT Services, Software Development, Testing, BPO, Outsourcing, Offshoring, Cloud, Mobile Development, Support & Maintenance, Migration Services, Microsoft Gold Partner, R&D, and Web Development.<br/>
               Being a member of the Software Department (line of .NET Technologies), my responsibility includes, but not limited to:
               <ul>
               <li>- Make the detailed designs for assigned tasks</li>
@@ -37,7 +39,7 @@ const Experience: React.FC = () => {
               </p>
             </div>
             <div className="experience-content">
-              <span className="period-experience">2016 – 2018</span>
+              <span className="period-experience">May 2015 – Jul 2018</span>
               <h3 className="specialty-name">SENIOR SOFTWARE ENGINEER/TEAM LEADER </h3>
               <h3 className="company-name">VienthongA (acquired by VingroupJSC) – Ho Chi Minh City, Vietnam</h3>
               <p className="prg-experience">
@@ -56,25 +58,7 @@ const Experience: React.FC = () => {
               </p>
             </div>
             <div className="experience-content">
-            <span className="period-experience">2015 – 2016</span>
-              <h3 className="specialty-name">SENIOR SOFTWARE ENGINEER/TEAM LEADER </h3>
-              <h3 className="company-name">Amberos LLC – Ho Chi Minh City, Vietnam</h3>
-              <p className="prg-experience">
-              <ul>
-              <li>- Support users in Singapore for technical matters when using ERP system.</li>
-              <li>- Fix bugs and implement new requirements for existed ERP projects.</li>
-              <li>- Manage team with 3 junior developers.</li>
-              <li>- Technical use:</li>
-              <ul>
-                <li>+ C#, WebAPI (RESTFul), Crystal Report, Entity Framework 6</li>
-                <li>+ Xamarin, WindowsApp, Windows Service</li>
-                <li>+ SQL Server 2012</li>
-              </ul>
-              </ul>
-              </p>
-            </div>
-            <div className="experience-content">
-            <span className="period-experience">2014 – 2015</span>
+            <span className="period-experience">Dec 2013 – May 2015</span>
               <h3 className="specialty-name">SOFTWARE ENGINEER</h3>
               <h3 className="company-name">Viettel Telecommunications Network Equipment Manufacturer (VTCore) – Hanoi, Vietnam</h3>
               <p className="prg-experience">
@@ -89,20 +73,7 @@ const Experience: React.FC = () => {
               </p>
             </div>
             <div className="experience-content">
-            <span className="period-experience">2013 – 2014</span>
-              <h3 className="specialty-name">TECHNICAL TRAINING ASSISTANT</h3>
-              <h3 className="company-name">Global CyberSoft – Ho Chi Minh City, Vietnam</h3>
-              <p className="prg-experience">
-              <ul>
-              <li>- Work at Training Center, assist Training Program Manager for technical matters in training program (manage project meeting, code review, evaluate intern)</li>
-              <li>- Manage intern members team.</li>
-              <li>- Instructor for various basic courses: Using SVN & JIRA in Project, Effective email with Thunderbird, Software Development Life Cycle</li>
-              <li>- Make e-learning courses for internal use.</li>
-              </ul>
-              </p>
-            </div>
-            <div className="experience-content">
-            <span className="period-experience">2011 – 2013</span>
+            <span className="period-experience">May 2010 – Nov 2013</span>
               <h3 className="specialty-name">SOFTWARE ENGINEER / TEACHING ASSISTANT </h3>
               <h3 className="company-name">Software Engineering Laboratory, University of Science Ho Chi Minh City (VNU-HCM) – Ho Chi Minh City, Vietnam </h3>
               <p className="prg-experience">
@@ -116,22 +87,6 @@ const Experience: React.FC = () => {
                 <li>+ SQL Server, MySQL </li>
               </ul>
               </ul>
-              </p>
-            </div>
-            <div className="experience-content">
-              <span className="period-experience">2010 – 2011</span>
-              <h3 className="specialty-name">PHP DEVELOPER (INTERN) </h3>
-              <h3 className="company-name">VNSON Corp. – Ho Chi Minh City, Vietnam </h3>
-              <p className="prg-experience">
-                <ul>
-                  <li>- Assist in development and documentation of several company’s internal projects.</li>
-                  <li>- Implement components and modules for both Front-end & Back-end in CMS Joomla.</li>
-                  <li>- Technical use:</li>
-                  <ul>
-                    <li>+ PHP, Joomla 2.x (develop components and modules)</li>
-                    <li>+ MySQL </li>
-                  </ul>
-                </ul>
               </p>
             </div>
           </div>

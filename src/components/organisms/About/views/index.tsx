@@ -25,7 +25,7 @@ const About: React.FC = () => {
             <div className="info-profile">
               <h2><span>HI I'M</span> HUỲNH HỮU CÓ</h2>
               <h3>Senior Software Developer</h3>
-              <p>Hello! I’m Huynh Huu Co (just call me Nathan). I have more than 6 years of experience worked in software development environment.</p>
+              <p>Hello! I’m Huynh Huu Co (just call me Nathan). I have more than 8 years of experience worked in software development environment.</p>
               <p>I’m specializing in Back-end development, experienced with all stages of the software development life cycle (SDLC).</p>
               <p>I’m well-versed in numerous programming languages including C#, PHP, JAVA, JavaScript (ES6) and mark-up language like HTML5, CSS3. 
                 I also have experienced with writing SQL query.
@@ -41,7 +41,7 @@ const About: React.FC = () => {
                     </li>
                     <li className="li-info">
                       <span className="title-info">Email</span>
-                      <span className="info">huynhhuuco@gmail.com</span>
+                      <span className="info">co.huynhhuu@outlook.com</span>
                     </li>
                   </ul>
                 </div>

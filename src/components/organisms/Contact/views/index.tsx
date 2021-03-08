@@ -15,12 +15,12 @@ const Contact: React.FC = () => {
               <span className="info-icon"
                 ><i className="fa fa-map-marker"></i
               ></span>
-              <span className="info-text">Dong Thuan Building, DN10 Street, Tan Hung Thuan Ward, 12 District, Ho Chi Minh City, Vietnam
+              <span className="info-text">Dong Thuan 2 Building, DN10 Street, Tan Hung Thuan Ward, District 12, Ho Chi Minh City, Vietnam
               </span>
             </div>
             <div className="email">
               <span className="info-icon"><i className="fa fa-envelope"></i></span>
-              <span className="info-text">huynhhuuco@gmail.com</span>
+              <span className="info-text">co.huynhhuu@outlook.com</span>
             </div>
             <div className="telephone">
               <span className="info-icon"><i className="fa fa-phone"></i></span>

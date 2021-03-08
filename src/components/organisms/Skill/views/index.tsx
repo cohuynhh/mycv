@@ -260,9 +260,9 @@ const Skill: React.FC = () => {
                 <div className="col-sm-4">
                   <div className="circle">
                     <div className="chart-percentage">
-                      <span>60%</span>
+                      <span>80%</span>
                     </div>
-                    <div className="chart" data-percent="60">
+                    <div className="chart" data-percent="80">
                     </div>
                     <div className="name-circle">
                       <span>SOCIAL</span>
